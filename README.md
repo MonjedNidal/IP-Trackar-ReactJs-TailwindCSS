@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/ip-tracker-app-using-reactjs-with-tailwindcss-T31ziUjujI](https://www.frontendmentor.io/solutions/ip-tracker-app-using-reactjs-with-tailwindcss-T31ziUjujI)
+- Live Site URL: [https://monjed-ip-tracker.netlify.app/](https://monjed-ip-tracker.netlify.app/)
 
 ### Built with
 
